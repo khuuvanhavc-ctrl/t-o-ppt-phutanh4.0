@@ -1,0 +1,45 @@
+{
+  "title": "Lớp đất trên Trái Đất",
+  "subtitle": "Bài trình chiếu minh họa cấu trúc — cần đối chiếu SGK đang sử dụng",
+  "subject": "Địa lí",
+  "grade": "THCS",
+  "source_note": "Ví dụ kỹ thuật; hãy thay nội dung bằng tài liệu và yêu cầu bài học thực tế.",
+  "slides": [
+    {
+      "title": "Mục tiêu bài học",
+      "layout": "bullets",
+      "bullets": [
+        "Mô tả được các thành phần chính của đất.",
+        "Nhận biết được các tầng đất trong một phẫu diện đất.",
+        "Giải thích được vai trò của lớp đất đối với sinh vật và hoạt động sản xuất."
+      ]
+    },
+    {
+      "title": "Đất gồm những thành phần nào?",
+      "layout": "two_column",
+      "left_title": "Thành phần vô cơ",
+      "left_bullets": ["Các hạt khoáng có kích thước khác nhau", "Nước và không khí trong khe hở của đất"],
+      "right_title": "Thành phần hữu cơ",
+      "right_bullets": ["Xác sinh vật đang phân hủy", "Mùn hình thành từ quá trình phân giải chất hữu cơ"],
+      "note": "Sơ đồ hóa để dạy học; đối chiếu thuật ngữ với sách giáo khoa được chọn."
+    },
+    {
+      "title": "Quan sát và giải thích",
+      "layout": "bullets",
+      "bullets": [
+        "Tầng đất nào thường tích lũy nhiều chất hữu cơ?",
+        "Vì sao đặc điểm các tầng đất có thể khác nhau?",
+        "Hãy nêu một việc làm góp phần bảo vệ đất."
+      ]
+    },
+    {
+      "title": "Vận dụng",
+      "layout": "closing",
+      "bullets": [
+        "Quan sát đất ở một vị trí gần nơi em sống.",
+        "Mô tả màu sắc, độ ẩm và lớp phủ thực vật.",
+        "Đưa ra một nhận xét có căn cứ; không đào đất ở nơi nguy hiểm hoặc bị cấm."
+      ]
+    }
+  ]
+}
